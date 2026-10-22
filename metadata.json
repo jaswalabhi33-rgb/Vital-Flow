@@ -1,0 +1,8 @@
+{
+  "name": "VitalFlow AI",
+  "description": "Adaptive Fitness & Wellness Companion — Personalized AI-guided workouts, nutrition, recovery, habit tracking, and real-time coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
